@@ -1,16 +1,49 @@
-### Hi there 👋
+<!-- 动态打字效果 -->
+<h1 align="center">
+  <a href="https://jianjun.kim/">
+    <img src="https://readme-typing-svg.herokuapp.com?size=27&center=true&vCenter=true&width=600&height=45&lines=cout+%3C%3C+%22Hello+World!%22+%3C%3C+endl%EF%BC%9B;print(%22Hello+World!%22);fmt.Println(%22Hello+World!%22">
+  </a>
+</h1>
 
-<!--
-**EVA-JianJun/EVA-JianJun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- 个人资料徽标 -->
+<div align="center">
+  <a href="https://jianjun.kim/"><img src="https://img.shields.io/badge/website-%E5%8D%9A%E5%AE%A2-critical"></a>&emsp;
+  <img src="https://visitor-badge.glitch.me/badge?page_id=EVA-JianJun" alt="访客统计" />
+</div>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
