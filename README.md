@@ -11,7 +11,8 @@
   <img src="https://visitor-badge.glitch.me/badge?page_id=EVA-JianJun" alt="访客统计" />
 </div>
 
-
+<!-- 贪吃蛇代码贡献图 -->
+<div align="center"><img src="https://cdn.jsdelivr.net/gh/EVA-JianJun/EVA-JianJun/assets/github-contribution-grid-snake.svg" /></div>
 
 
 
