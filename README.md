@@ -5,6 +5,9 @@
   </a>
 </h1>
 
+<div align="center" ><img order-radius="100px" src="https://cdn.jsdelivr.net/gh/EVA-JianJun/EVA-JianJun/photos/images/[12746]うたた寝-38578032.png"/></div>
+<br>
+
 <!-- 个人资料徽标 -->
 <div align="center">
   <a href="https://jianjun.kim/"><img src="https://img.shields.io/badge/website-%E5%8D%9A%E5%AE%A2-critical"></a>&emsp;
