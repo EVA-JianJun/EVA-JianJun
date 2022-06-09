@@ -10,7 +10,7 @@
 
 <!-- 个人资料徽标 -->
 <div align="center">
-  <a href="https://jianjun.kim/"><img src="https://img.shields.io/badge/website-%E5%8D%9A%E5%AE%A2-critical"></a>&emsp;
+  <a href="https://jianjun.kim/"><img src="https://img.shields.io/badge/website-Blog-critical"></a>&emsp;
   <img src="https://visitor-badge.glitch.me/badge?page_id=EVA-JianJun" alt="访客统计" />
 </div>
 
@@ -27,7 +27,7 @@
 </a>
 </div>
 
-🐍 主动技能
+🐍 Tech Stack
 
 &emsp;&emsp;
 ![Python](https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white)
@@ -35,7 +35,7 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 
-🐸 被动技能
+🐸 Some
 
 &emsp;&emsp;
 ![html5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -44,7 +44,7 @@
 ![php](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 
-🌸 技能书
+🌸 Study
 
 &emsp;&emsp;
 ![dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
@@ -52,7 +52,7 @@
 ![flutter](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 
 
-🧰 盔甲
+🧰 Tool
 
 &emsp;&emsp;
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
