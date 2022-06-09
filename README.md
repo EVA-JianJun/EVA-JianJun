@@ -1,9 +1,8 @@
-<img align="right" src="https://count.getloli.com/get/@EVA-JianJun?theme=asoul">
-
 <!-- 动态打字效果 -->
 <h1 align="center">
+  <img align="right" src="https://count.getloli.com/get/@EVA-JianJun?theme=asoul">
   <a href="https://jianjun.kim/">
-    <img src="https://readme-typing-svg.herokuapp.com?size=27&center=true&vCenter=true&width=550&height=45&lines=cout+%3C%3C+%22Hello+World!%22+%3C%3C+endl%EF%BC%9B;print(%22Hello+World!%22);fmt.Println(%22Hello+World!%22)">
+    <img src="https://readme-typing-svg.herokuapp.com?size=27&center=true&vCenter=true&width=600&height=45&lines=cout+%3C%3C+%22Hello+World!%22+%3C%3C+endl%EF%BC%9B;print(%22Hello+World!%22);fmt.Println(%22Hello+World!%22)">
   </a>
 </h1>
 
