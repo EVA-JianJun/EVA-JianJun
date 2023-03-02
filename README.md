@@ -20,11 +20,17 @@
 
 <!-- 比较好的开源项目卡片 -->
 <div align="center">
+<a href="https://github.com/EVA-JianJun/ChatRoom-V3">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=EVA-JianJun&repo=ChatRoom-V3&theme=dark&bg_color=0d1117&hide_border=true" />
+</a>
 <a href="https://github.com/EVA-JianJun/AutoCython">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=EVA-JianJun&repo=AutoCython&theme=dark&bg_color=0d1117&hide_border=true" />
 </a>
-<a href="https://github.com/EVA-JianJun/ChatRoom">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=EVA-JianJun&repo=ChatRoom&theme=dark&bg_color=0d1117&hide_border=true" />
+<a href="https://github.com/EVA-JianJun/cprint">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=EVA-JianJun&repo=cprint&theme=dark&bg_color=0d1117&hide_border=true" />
+</a>
+<a href="https://github.com/EVA-JianJun/Mconfig">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=EVA-JianJun&repo=Mconfig&theme=dark&bg_color=0d1117&hide_border=true" />
 </a>
 </div>
 
