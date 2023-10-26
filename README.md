@@ -15,10 +15,13 @@
 </div>
 
 <!--使用的语言-搬砖动画-->
-<div align=""> <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=EVA-JianJun&theme=radical&show_icons=true><img src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/hacker_a.gif?raw=true.gif" width="40%">
+<div align="left">
+<img src=https://github-readme-stats.vercel.app/api/top-langs/?username=EVA-JianJun&theme=radical&show_icons=true>
+<img src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/hacker_a.gif?raw=true.gif" width="40%">
+</div>
 
 <!-- 比较好的开源项目卡片 -->
-<div align="center">
+<div align="left">
 <a href="https://github.com/EVA-JianJun/ChatRoom-V3">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=EVA-JianJun&repo=ChatRoom-V3&theme=dark&bg_color=0d1117&hide_border=true" />
 </a>
