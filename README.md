@@ -12,11 +12,10 @@
 <!-- 个人资料徽标 -->
 <div align="center">
   <a href="https://jianjun.kim/"><img src="https://img.shields.io/badge/website-Blog-critical"></a>&emsp;
-  <img src="https://visitor-badge.glitch.me/badge?page_id=EVA-JianJun" alt="访客统计" />
 </div>
 
-<!-- 贪吃蛇代码贡献图 -->
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/EVA-JianJun/EVA-JianJun/assets/github-contribution-grid-snake.svg" /></div>
+<!--使用的语言-搬砖动画-->
+<div align=""> <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=EVA-JianJun&theme=radical&show_icons=true><img src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/hacker_a.gif?raw=true.gif" width="40%">
 
 <!-- 比较好的开源项目卡片 -->
 <div align="center">
@@ -72,4 +71,4 @@
 ![Git](https://img.shields.io/badge/-Git-FCC624?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-pink?style=flat-square&logo=github)
 
-![EVA-JianJun's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=EVA-JianJun&theme=high-contrast)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=EVA-JianJun&theme=rogue)](https://github.com/EVA-JianJun)
