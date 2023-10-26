@@ -17,7 +17,7 @@
 <!--使用的语言-搬砖动画-->
 <div align="left">
 <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=EVA-JianJun&theme=radical&show_icons=true>
-<img src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/hacker_a.gif?raw=true.gif" width="40%">
+<img src="https://cdn.jsdelivr.net/gh/EVA-JianJun/EVA-JianJun/photos/images/hacker_a.gif" width="40%">
 </div>
 
 <!-- 比较好的开源项目卡片 -->
