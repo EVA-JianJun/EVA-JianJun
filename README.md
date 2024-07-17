@@ -1,9 +1,11 @@
-<img align="right" src="https://count.getloli.com/get/@EVA-JianJun?theme=rule34">
 <!-- 动态打字效果 -->
-<h1 align="center">
-  <a href="https://jianjun.kim/">
-    <img src="https://readme-typing-svg.herokuapp.com?size=27&center=true&vCenter=true&width=500&height=45&lines=cout+%3C%3C+%22Hello+World!%22+%3C%3C+endl%EF%BC%9B;print(%22Hello+World!%22);fmt.Println(%22Hello+World!%22)">
-  </a>
+<h1>
+    <a align="left" href="https://jianjun.kim/">
+        <img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=50&duration=3000&pause=1000&center=true&vCenter=true&width=650&height=65&separator=%3D&lines=cout+%3C%3C+%22Hello+World!%22+%3C%3C+endl;%3Dprint(%22Hello+World!%22)%3Dfmt.Println(%22Hello+World!%22)" alt="Typing SVG" />
+    </a>
+    <a align="right">
+        <img align="right" src="https://count.getloli.com/get/@EVA-JianJun?theme=rule34">
+    </a>
 </h1>
 
 <div align="center" ><img order-radius="100px" src="https://cdn.jsdelivr.net/gh/EVA-JianJun/EVA-JianJun/photos/images/[12746]うたた寝-38578032.png"/></div>
