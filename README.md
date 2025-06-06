@@ -7,16 +7,11 @@
 <div align="center" ><img order-radius="100px" src="https://cdn.jsdelivr.net/gh/EVA-JianJun/EVA-JianJun/photos/images/[12746]うたた寝-38578032.png"/></div>
 <br>
 
-<!-- 个人资料徽标 -->
-<div align="center">
-  <a href="https://jianjun.kim/"><img src="https://img.shields.io/badge/website-Blog-critical"></a>&emsp;
-</div>
-
 <!--使用的语言-搬砖动画-->
 <div align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=EVA-JianJun&theme=merko&hide=contribs&show_icons=true"  width="45%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EVA-JianJun&theme=merko&layout=compact" width="45%">
-<img src="https://cdn.jsdelivr.net/gh/EVA-JianJun/EVA-JianJun/photos/images/hacker_a.gif" width="24%">
+<img src="https://github-readme-stats.vercel.app/api?username=EVA-JianJun&theme=merko&hide=contribs&show_icons=true"  width="59%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EVA-JianJun&theme=merko&layout=compact" width="39%">
+<img src="https://cdn.jsdelivr.net/gh/EVA-JianJun/EVA-JianJun/photos/images/hacker_a.gif" width="50%">
 </div>
 
 &emsp;&emsp;
