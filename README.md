@@ -15,7 +15,7 @@
 <!--使用的语言-搬砖动画-->
 <div align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=EVA-JianJun&theme=merko&hide=contribs&show_icons=true"  width="45%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EVA-JianJun&theme=merko&layout=compact">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EVA-JianJun&theme=merko&layout=compact" width="45%">
 <img src="https://cdn.jsdelivr.net/gh/EVA-JianJun/EVA-JianJun/photos/images/hacker_a.gif" width="24%">
 </div>
 
